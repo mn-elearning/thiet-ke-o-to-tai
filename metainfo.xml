@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<presentation guid="FCAB17FE-8DBE-45AD-BCF2-6197A1FEF111" version="0" availableOffline="1">
+<presentation guid="C0CF63B9-89BF-4A09-8E0E-F498DD4C61B1" version="0" availableOffline="1">
 	<info>
-		<title>thiet-ke-o-to-tai</title>
+		<title>thiet-ke-o-to-tai-update</title>
 		<description/>
 	</info>
-	<files index="id60" thumbnail="id104" totalSize="31475962">
+	<files index="id60" thumbnail="id104" totalSize="31484584">
 		<file id="id0">data/thmb1.png</file>
 		<file id="id1">data/slide1.js</file>
 		<file id="id2">data/slide1.css</file>
